@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Sharid%20Kayes%20(Dipu)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20Researcher%20%7C%20Full%20Stack%20Dev%20%7C%20MLOps%20Engineer&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=🔬+CV+%7C+Deep+Learning+%7C+Object+Detection;🚀+Next.js+%7C+React+%7C+Django+%7C+PostgreSQL;📄+6+Published+Papers+%7C+IEEE+%7C+Nature+%7C+SPIE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=🔬+CV+%7C+Deep+Learning+%7C+Object+Detection;🚀+Next.js+%7C+React+%7C+Django+%7C+PostgreSQL)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sharid02&color=1f6feb&style=flat-square&label=Profile+Views)](https://github.com/sharid02)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_AsiFMYAAAAJ)
